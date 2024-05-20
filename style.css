@@ -1,0 +1,18 @@
+.todo-item-form{
+    display: none;
+}
+
+.todo-item.completed span {
+    text-decoration: line-through;
+}
+
+
+
+.todo-list li {
+    display: flex;
+    flex-direction: column;
+}
+
+.todo-form {
+    display: none;
+}
